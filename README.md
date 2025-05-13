@@ -17,7 +17,7 @@
     </table>
 </div>
 
----
+-----------
 
 ## ☕️ 언어 (Language)
 <table style="background:white; padding:10px; border-radius:8px;">
