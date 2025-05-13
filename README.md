@@ -29,6 +29,9 @@
     </tr>
 </table>
 
+## 초기설정
+![image](https://github.com/user-attachments/assets/96ce7fef-d71e-411b-9167-bb48b5a3aa09)
+
 
 ## 🗓️ 학습 일지 요약
 
